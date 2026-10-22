@@ -43,14 +43,14 @@ The decoder uses this visual context to generate the next word using embedding l
 
 Evaluation Metrics:
 The project evaluates generated captions using the metrics implemented in the evaluation code, which include:
-BLEU-1
-BLEU-2
-BLEU-3
-BLEU-4
-METEOR
-ROUGE-L
-Word-level accuracy, precision, recall and F1-Score
-Exact-match accuracy
+BLEU-1,
+BLEU-2,
+BLEU-3,
+BLEU-4,
+METEOR,
+ROUGE-L,
+Word-level accuracy, precision, recall and F1-Score,
+Exact-match accuracy.
 The metrics and results are saved in results/results.csv.
 
 Results:
