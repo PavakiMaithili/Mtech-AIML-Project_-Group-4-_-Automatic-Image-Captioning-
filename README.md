@@ -67,4 +67,4 @@ Future Scope:
 
 Team Members:
 Pavaki Maithili: MT/AI/10020/26
-Rishika Ranjan : MT/AI/10021/26
+Rishika Ranjan: MT/AI/10021/26
