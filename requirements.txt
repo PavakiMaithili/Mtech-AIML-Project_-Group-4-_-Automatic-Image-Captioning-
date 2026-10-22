@@ -11,3 +11,4 @@ PIL
 IPython.display
 OS
 RE
+tqdm
