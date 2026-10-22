@@ -1,0 +1,13 @@
+Tenserflow
+NumPy
+Matplotlib
+Pandas
+NLTK
+Collections
+Time
+Json
+Random
+PIL
+IPython.display
+OS
+RE
