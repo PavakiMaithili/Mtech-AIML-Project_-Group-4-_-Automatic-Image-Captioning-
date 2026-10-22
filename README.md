@@ -8,7 +8,7 @@ Objective:
 The objective of this project is to develop an automatic image captioning system which will convert visual information into meaningful language using CNN for visual feature extraction, RNN for sequential caption generation, and a Transformer based  self-attention mechanism to capture contextual relationships between image features and words. The system will generate meaningful appropriate captions that describe objects, their activities and interactions within an image. The performance of this  system will be evaluated using word-level accuracy, precision, recall and f1-score, along with Bleu, Meteor, and Rouge-L metrics  to assess caption quality.  It aims to improve image accessibility for visually impaired people and also support applications such as automated image description and image retrieval.
 
 Dataset Description:
-Dataset downloaded from kaggle: Flickr8k dataset
+Dataset downloaded from kaggle: Flickr8k dataset.
 The dataset contains images paired with human-written captions. Each image has five reference captions.
 The dataset is kept separately and is not included in this repository. Refer to data/README.md for dataset setup instructions.
 
